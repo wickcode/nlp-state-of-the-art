@@ -10,5 +10,6 @@
 - SQuAD (people on the wheel) https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/
 - SPARC https://yale-lily.github.io/sparc
 - WikiSQL https://awesomeopensource.com/project/salesforce/WikiSQL?categoryPage=9
+- Spider https://yale-lily.github.io/spider
 
 I will keep adding more into the list as I find them. If you would like to contribute please create a pull request.
